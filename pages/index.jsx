@@ -16,7 +16,7 @@ export default function Home() {
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="/mockup-pine.jpg"
+                src="portfolio3/mockup-pine.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
@@ -83,7 +83,7 @@ export default function Home() {
             </div>
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="/mockup-patrimar.jpg"
+                src="portfolio3/mockup-patrimar.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
@@ -99,7 +99,7 @@ export default function Home() {
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="/mockup-habita.jpg"
+                src="portfolio3/mockup-habita.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
