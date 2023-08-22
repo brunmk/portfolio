@@ -41,7 +41,7 @@ export default function Home() {
                 >
                   Live
                 </a>
-                <a href="/" target="_blank"
+                <a href="https://github.com/brunmk/websites/tree/main/banco-pine" target="_blank"
                   type="button"
                   className="btn btn-outline-secondary btn-lg px-4"
                 >
@@ -73,7 +73,7 @@ export default function Home() {
                 >
                   Live
                 </a>
-                <a href="/" target="_blank"
+                <a href="https://github.com/brunmk/websites/tree/main/patrimar" target="_blank"
                   type="button"
                   className="btn btn-outline-secondary btn-lg px-4"
                 >
@@ -126,7 +126,7 @@ It is an asset manager authorized by the CVM that focuses exclusively on the Rea
                 >
                   Live
                 </a>
-                <a href="/" target="_blank"
+                <a href="https://github.com/brunmk/websites/tree/main/habitat" target="_blank"
                   type="button"
                   className="btn btn-outline-secondary btn-lg px-4"
                 >
