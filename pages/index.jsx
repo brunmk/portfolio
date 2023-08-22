@@ -16,7 +16,7 @@ export default function Home() {
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="https://brunmk.github.io/portfolio3/mockup-pine.jpg"
+                src="https://brunmk.github.io/portfolio/mockup-pine.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
@@ -83,7 +83,7 @@ export default function Home() {
             </div>
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="https://brunmk.github.io/portfolio3/mockup-patrimar.jpg"
+                src="https://brunmk.github.io/portfolio/mockup-patrimar.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
@@ -99,7 +99,7 @@ export default function Home() {
           <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
             <div className="col-10 col-sm-8 col-lg-6">
               <img
-                src="https://brunmk.github.io/portfolio3/mockup-habita.jpg"
+                src="https://brunmk.github.io/portfolio/mockup-habita.jpg"
                 className="d-block mx-lg-auto img-fluid"
                 alt="Bootstrap Themes"
                 width={700}
@@ -170,7 +170,7 @@ It is an asset manager authorized by the CVM that focuses exclusively on the Rea
             <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
               <img
                 className="rounded-lg-3"
-                src="https://brunmk.github.io/portfolio3/bootstrap-docs.png"
+                src="https://brunmk.github.io/portfolio/bootstrap-docs.png"
                 alt=""
                 height={500}
                 width={720}
