@@ -145,6 +145,7 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className="b-example-divider"></div>
       </main>
     </>
   );
