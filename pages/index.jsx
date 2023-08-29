@@ -15,7 +15,7 @@ export default function Home() {
               <img
                 src="https://brunmk.github.io/portfolio/mockup-pine.jpg"
                 className="d-block mx-lg-auto img-fluid"
-                alt="Bootstrap Themes"
+                alt="mockup Banco Pine"
                 width={700}
                 height={500}
                 loading="lazy"
@@ -89,7 +89,7 @@ export default function Home() {
               <img
                 src="https://brunmk.github.io/portfolio/mockup-patrimar.jpg"
                 className="d-block mx-lg-auto img-fluid"
-                alt="Bootstrap Themes"
+                alt="mockup Patrimar"
                 width={700}
                 height={500}
                 loading="lazy"
@@ -105,7 +105,7 @@ export default function Home() {
               <img
                 src="https://brunmk.github.io/portfolio/mockup-habita.jpg"
                 className="d-block mx-lg-auto img-fluid"
-                alt="Bootstrap Themes"
+                alt="mockup Habitat"
                 width={700}
                 height={500}
                 loading="lazy"
