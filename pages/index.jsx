@@ -156,14 +156,14 @@ export default function Home() {
                 13
               </p>
               <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-                <a
+                {/* <a
                   href="https://brunmk.github.io/github-repos"
                   target="_blank"
                   type="button"
                   className="btn btn-primary btn-lg px-4 me-md-2 fw-bold"
                 >
                   Live
-                </a>
+                </a> */}
                 <a
                   href="https://github.com/brunmk/github-repos"
                   target="_blank"
