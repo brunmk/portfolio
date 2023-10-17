@@ -1,0 +1,33 @@
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.side-menu{
+  a.link-underline-opacity-0.active{
+    --bs-link-underline-opacity:  0.75
+  }
+
+}
+
+@include media-breakpoint-up(xxl) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+@include media-breakpoint-up(xxl) {
+  .side-menu {
+    position: fixed;
+    top: 5rem;
+    display: block !important;
+    height: calc(100vh - 6rem);
+    padding-left: 0.25rem;
+    margin-left: -0.25rem;
+    overflow-y: auto;
+  }
+}

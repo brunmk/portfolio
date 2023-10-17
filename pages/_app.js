@@ -1,5 +1,5 @@
-import "bootstrap/dist/css/bootstrap.css";
-import '@/styles/globals.css'
+import '@/styles/globals.scss'
+import Layout from '@/components/layout';
 
 import dynamic from 'next/dynamic';
 
@@ -9,5 +9,5 @@ const DynamicBootstrap = dynamic(
 );
 
 export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  return <Layout><Component {...pageProps} /></Layout>
 }
