@@ -11,7 +11,6 @@ const UxUi = () => {
           loop
           muted
         ></video>
-        <video src="./video/inflency-01-edied.mp4" autoPlay loop muted></video>
       </div>
       <div className="mb-4">
         <h2 className="display-5 fw-bold lh-1 mb-3">Influency.me</h2>
