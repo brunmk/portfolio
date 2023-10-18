@@ -3,7 +3,7 @@ import React from "react";
 const AboutMe = () => {
   return (
     <div className="py-5">
-      <h1>About Me</h1>
+      <h1>Bruno Moralles Kobayashi </h1>
 
       <p className="lead">
         Passionate about coding, I specialize in problem-solving through design
